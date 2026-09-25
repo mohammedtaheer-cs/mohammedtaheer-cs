@@ -1,16 +1,47 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mohammedtaheer-cs/mohammedtaheer-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Mohammed Taheer
 
-Here are some ideas to get you started:
+### Software Engineer | C# | .NET | SQL Server | Backend & Business Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="YOUR_PROFILE_IMAGE_URL" width="180" alt="Mohammed Taheer"/>
+
+<p>
+  <a href="https://github.com/MohammedTaheer">
+    <img src="https://img.shields.io/badge/GitHub-MohammedTaheer-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohammedtaheer">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Taheer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MohammedTaheer&style=flat&color=blue&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Mohammed Nabeel Ali Taheer**, a Software Engineer and Computer Engineering graduate from the **University of Aden**.
+
+I focus on building reliable **backend systems and business applications** using **C#/.NET and Microsoft SQL Server**.
+
+My development journey is strongly focused on understanding how software works internally — from programming fundamentals and algorithms to database design, architecture, APIs, accounting systems, and enterprise applications.
+
+```text
+Software Engineering
+        │
+        ├── C# / .NET
+        │
+        ├── Backend Development
+        │
+        ├── SQL Server / T-SQL
+        │
+        ├── RESTful APIs
+        │
+        ├── Business Applications
+        │
+        ├── ERP Systems
+        │
+        └── Software Architecture
