@@ -33,12 +33,6 @@
 
 Software Engineer and C#/.NET Developer focused on building reliable desktop and backend applications. Experienced with SQL Server, T-SQL, software architecture, MVP, clean code, and database-driven systems. I enjoy turning business requirements into structured, scalable, and maintainable software solutions while continuously improving my programming and software engineering skills.
 
-- 🔭 I'm currently working on improving my skills as a software engineer.
-- 🌱 I'm currently curious about full-stack web development, cloud computing, and AI integration.
-- 👯 I'm looking to collaborate on open-source .NET and C# projects.
-- 🤔 I'm looking for help with advanced software architecture and design patterns.
-- 📫 **How to Reach Me:** [mohammedtaheer.cs@gmail.com](mailto:mohammedtaheer.cs@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mohammedtaheer/)
-
 ### 🛠️ Skills &amp; Technologies
 
 - **Languages:**
