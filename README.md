@@ -2,7 +2,9 @@
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="40%" alt="Hello Coders"/><br>
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" alt="Developer Working"/>
-
+  
+<div align="center">
+  <img src="https://github.com/mohammedtaheer.png" alt="Mohammed Taheer" width="150" style="border-radius: 50%;" />
   <h3>Mohammed Taheer</h3>
   <b>Software Engineer | C# & .NET Specialist | Backend Developer | SQL Server & T-SQL</b>
   
