@@ -62,33 +62,22 @@ Software Engineer and C#/.NET Developer focused on building reliable desktop and
 - **Tools:**
   Visual Studio, SQL Server Management Studio, Git, GitHub, DevExpress, Guna UI.
 
-### ⭐ Featured Project
+### ⭐ Featured Projects
 
-**🏢 Alhomeed Allows ERP Lite**
+- **Military Brigade Management System (MBMS)** (Sep 2024 – Present) – Built a desktop application using C# and SQL Server following the MVP architecture pattern. Designed modules for personnel records, weapons/ammunition inventory, licensing, salaries, and operational budgeting. (🔗 [GitHub](https://github.com/MohammedTaheer))
+- **Supply Brigade Management System (SBMS)** – Developed a system to manage food, housing, and supply distribution across brigade units. Created reporting tools to improve tracking and operational efficiency. (🔗 [GitHub](https://github.com/MohammedTaheer))
+- **Driving & Vehicle License Department (DVLD)** (Nov 2025 – Jan 2026) – Designed a desktop application for managing driving licenses and vehicle registrations. Implemented features for local/international license applications, renewals, testing workflows, and license suspension/reinstatement. (🔗 [GitHub](https://github.com/MohammedTaheer))
 
-A desktop ERP and business management system built using C# / .NET, WinForms, SQL Server, MVP Pattern and layered architecture.
+### 📚 Learning Goals
 
-The system is designed with scalability and maintainability in mind, with the possibility of extending the business logic and exposing it through APIs for future web applications.
+I'm always learning something new! Right now, I'm focused on:
 
-### 📚 What I'm Building
+- 🧠 Deepening expertise in .NET, SQL Server, and Cloud technologies (AWS, Azure).
+- 🌐 Expanding knowledge in frontend frameworks (React/Angular) to become a full-stack developer.
+- 🛠️ Improving cross-disciplinary capabilities: DevOps, System Design.
 
-I'm currently developing my skills through practical software engineering projects and real-world business systems.
+### 🤝 Let’s Collaborate
 
-My development approach focuses on:
+I’m open to contributions, partnerships, and discussions on web or software engineering projects, C#/.NET development, or anything innovative. Feel free to open an issue or submit a PR!
 
-```text
-Requirements
-     ↓
-Architecture
-     ↓
-Business Logic
-     ↓
-Database Design
-     ↓
-Implementation
-     ↓
-Testing
-     ↓
-Optimization
-     ↓
-Deployment
+</div>
