@@ -31,7 +31,7 @@
 
 ### Hi there! 👋
 
-Software Engineer with a strong foundation in C# and .NET, specializing in desktop and backend application development with SQL Server. Completed an intensive 24-course programming curriculum covering full-stack development, data structures, and software design principles. Built multiple end-to-end management systems applying MVP architecture, clean code practices, and database design.
+Software Engineer and C#/.NET Developer focused on building reliable desktop and backend applications. Experienced with SQL Server, T-SQL, software architecture, MVP, clean code, and database-driven systems. I enjoy turning business requirements into structured, scalable, and maintainable software solutions while continuously improving my programming and software engineering skills.
 
 - 🔭 I'm currently working on improving my skills as a software engineer.
 - 🌱 I'm currently curious about full-stack web development, cloud computing, and AI integration.
@@ -67,21 +67,6 @@ Software Engineer with a strong foundation in C# and .NET, specializing in deskt
 **🏢 Alhomeed Allows ERP Lite**
 
 A desktop ERP and business management system built using C# / .NET, WinForms, SQL Server, MVP Pattern and layered architecture.
-
-The system is designed to manage real-world business operations such as:
-- 🛒 Sales
-- 📦 Purchases
-- 🔄 Returns
-- 📊 Inventory
-- 💰 Payments
-- 👥 Customers
-- 🏢 Suppliers
-- 💵 Cash Boxes
-- 🏭 Warehouses
-- 📚 Accounting
-- 📈 Reports
-- 👤 Users &amp; Permissions
-- 🔔 Notifications
 
 The system is designed with scalability and maintainability in mind, with the possibility of extending the business logic and exposing it through APIs for future web applications.
 
