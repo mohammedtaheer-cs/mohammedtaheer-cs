@@ -1,110 +1,66 @@
-<div align="center"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Hello Coders"/><br><img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="60%" alt="Developer Working"/>Hi there! 👋
+<!-- Left Side (Profile Info) -->
+<div align="center">
+  <img src="https://github.com/MohammedTaheer.png" alt="Mohammed Taheer" width="150" style="border-radius: 50%;" />
+  
+  <h3>Mohammed Taheer</h3>
+  <b>Software Engineer | C# & .NET Specialist | Backend Developer | SQL Server & T-SQL</b>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/mohammedtaheer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:alhomeedallows@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  </p>
+  
+  <p>📍 Al-Dhali, Yemen</p>
+  <p>⏰ 12:00 (UTC +03:00)</p>
+</div>
 
-I'm Mohammed Taheer
+<!-- Right Side (Main Content) -->
+<div align="right">
 
-Software Engineer | C# & .NET Developer | Backend & Business Applications
+### Hi there! 👋
 
-</div>---
+Software Engineer with a strong foundation in C# and .NET, specializing in desktop and backend application development with SQL Server. Completed an intensive 24-course programming curriculum covering full-stack development, data structures, and software design principles. Built multiple end-to-end management systems applying MVP architecture, clean code practices, and database design.
 
-👨‍💻 About Me
+- 🔭 I’m currently working on improving my skills as a software engineer.
+- 🌱 I’m currently curious about full-stack web development, cloud computing, and AI integration.
+- 👯 I’m looking to collaborate on open-source .NET and C# projects.
+- 🤔 I’m looking for help with advanced software architecture and design patterns.
+- 📫 How to Reach Me: [Email](mailto:alhomeedallows@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mohammedtaheer/)
 
-I’m a Software Engineer and Programmer focused on building reliable, scalable, and maintainable software applications.
+### 🛠️ Skills & Technologies
 
-My main interests are C#/.NET, backend development, SQL Server, T-SQL, REST APIs, software architecture, and business applications.
+- **Languages:** 
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+  ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
-I enjoy designing real-world systems, solving programming problems, improving application performance, and transforming business requirements into practical software solutions.
+- **Frameworks & Tools:**
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+  ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+  ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+  ![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=flat-square&logo=windows&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-Currently, I’m building and improving Alhommed Allows ERP Lite, a business management system designed around real-world Sales, Purchases, Inventory, Accounting, Payments, Reports, Users & Permissions, and other ERP workflows.
+### ⭐ Featured Projects
 
----
+- **Military Brigade Management System (MBMS)** (Sep 2024 – Present) – Built a desktop application using C# and SQL Server following the MVP architecture pattern. Designed modules for personnel records, weapons/ammunition inventory, licensing, salaries, and operational budgeting. (🔗 [GitHub](https://github.com/MohammedTaheer))
+- **Supply Brigade Management System (SBMS)** – Developed a system to manage food, housing, and supply distribution across brigade units. Created reporting tools to improve tracking and operational efficiency. (🔗 [GitHub](https://github.com/MohammedTaheer))
+- **Driving & Vehicle License Department (DVLD)** (Nov 2025 – Jan 2026) – Designed a desktop application for managing driving licenses and vehicle registrations. Implemented features for local/international license applications, renewals, testing workflows, and license suspension/reinstatement. (🔗 [GitHub](https://github.com/MohammedTaheer))
 
-🔭 I'm Currently Working On
+### 📚 Learning Goals
 
-- 🏢 Alhommed Allows ERP Lite
-- 💻 C# / .NET desktop business applications
-- 🗄️ SQL Server & T-SQL
-- 🔌 RESTful APIs
-- 🧩 MVP & 3-Layer Architecture
-- 🏗️ Clean Architecture concepts
-- ⚡ Async / Await and performance optimization
-- 🔐 Application security and data protection
-- 📊 ERP, accounting, inventory and business workflows
+I'm always learning something new! Right now, I'm focused on:
 
----
+- 🧠 Deepening expertise in .NET, SQL Server, and Cloud technologies (AWS, Azure).
+- 🌐 Expanding knowledge in frontend frameworks (React/Angular) to become a full-stack developer.
+- 🛠️ Improving cross-disciplinary capabilities: DevOps, System Design.
 
-🌱 I'm Currently Learning
+### 🤝 Let’s Collaborate
 
-- ⚡ Advanced C# and .NET
-- 🌐 ASP.NET Core & Web APIs
-- 🏗️ Clean Architecture
-- 🧩 Design Patterns
-- 🗄️ Advanced SQL Server & T-SQL
-- 🔄 Asynchronous Programming
-- 🚀 Performance Optimization
-- 🔐 Security & Encryption
-- ☁️ Backend and scalable application architectures
+I’m open to contributions, partnerships, and discussions on web or software engineering projects, C#/.NET development, or anything innovative. Feel free to open an issue or submit a PR!
 
----
-
-💡 Ask Me About
-
-- C#
-- .NET
-- C++
-- SQL Server
-- T-SQL
-- ADO.NET
-- REST APIs
-- WinForms
-- MVP Pattern
-- 3-Layer Architecture
-- Clean Architecture
-- Design Patterns
-- ERP Systems
-- Git & GitHub
-- Algorithms & Problem Solving
-
----
-
-🛠️ Skills & Technologies
-
-Programming Languages
-
-C#
-C++
-SQL
-T-SQL
-
-Frameworks & Technologies
-
-.NET
-.NET Framework
-ASP.NET Core
-Web API
-WinForms
-ADO.NET
-LINQ
-
-Architecture & Software Engineering
-
-MVP
-3-Layer Architecture
-Clean Architecture
-OOP
-SOLID
-Design Patterns
-Separation of Concerns
-Loose Coupling
-
-Database
-
-Microsoft SQL Server
-T-SQL
-Stored Procedures
-Views
-Triggers
-Transactions
-Indexes
+</div>
 Primary Keys
 Foreign Keys
 Database Design
