@@ -44,29 +44,63 @@ Software Engineer and C#/.NET Developer focused on building reliable desktop and
 - **Languages:**
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-  ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
-- **Frameworks &amp; Tools:**
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+- **Frameworks &amp; Libraries:**
+  ![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+  ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
   ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-  ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+  ![Web API](https://img.shields.io/badge/Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+  ![MVC](https://img.shields.io/badge/MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+  ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+  ![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
   ![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=flat-square&logo=windows&logoColor=white)
+  ![Windows Services](https://img.shields.io/badge/Windows_Services-512BD4?style=flat-square&logo=windows&logoColor=white)
+
+- **Databases:**
+  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+  ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+  ![Database Design](https://img.shields.io/badge/Database_Design-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+- **Tools:**
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+  ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
+  ![DevExpress](https://img.shields.io/badge/DevExpress-FF7200?style=flat-square&logo=devexpress&logoColor=white)
+
+- **Core Concepts:**
+  ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+  ![Data Structures](https://img.shields.io/badge/Data_Structures-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+  ![Algorithms](https://img.shields.io/badge/Algorithms-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+  ![SOLID](https://img.shields.io/badge/SOLID_Principles-239120?style=flat-square&logo=c-sharp&logoColor=white)
+  ![Design Patterns](https://img.shields.io/badge/Design_Patterns-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 - **Architecture &amp; Concepts:**
   MVP, 3-Layer Architecture, Clean Architecture, OOP, SOLID, Design Patterns, Separation of Concerns, Loose Coupling.
 
-- **Database:**
-  Microsoft SQL Server, T-SQL, Stored Procedures, Views, Triggers, Transactions, Indexes, Primary Keys, Foreign Keys, Database Design, Query Optimization.
-
-- **Tools:**
-  Visual Studio, SQL Server Management Studio, Git, GitHub, DevExpress, Guna UI.
-
 ### ⭐ Featured Projects
 
-- **Military Brigade Management System (MBMS)** (Sep 2024 – Present) – Built a desktop application using C# and SQL Server following the MVP architecture pattern. Designed modules for personnel records, weapons/ammunition inventory, licensing, salaries, and operational budgeting. (🔗 [GitHub](https://github.com/MohammedTaheer))
-- **Supply Brigade Management System (SBMS)** – Developed a system to manage food, housing, and supply distribution across brigade units. Created reporting tools to improve tracking and operational efficiency. (🔗 [GitHub](https://github.com/MohammedTaheer))
-- **Driving & Vehicle License Department (DVLD)** (Nov 2025 – Jan 2026) – Designed a desktop application for managing driving licenses and vehicle registrations. Implemented features for local/international license applications, renewals, testing workflows, and license suspension/reinstatement. (🔗 [GitHub](https://github.com/MohammedTaheer))
+- **Alhommed Allows ERP** | C#, .NET Framework, WinForms, SQL Server, DevExpress, MVP Architecture
+  - Developed a scalable desktop ERP system for managing sales, purchases, returns, inventory, customers, suppliers, payments, accounting, and reporting.
+  - Applied MVP architecture and layered design to separate the presentation, business, service/repository, and database layers, improving maintainability and scalability.
+  - Designed SQL Server databases and T-SQL stored procedures for transactional operations, accounting journal entries, inventory movements, payments, and reporting.
+  - Implemented inventory and financial workflows including product batches, FIFO-based costing, cash and credit transactions, customer/supplier balances, and journal posting.
+  - Built the system with extensibility in mind, allowing future expansion and potential migration from a desktop application to a web-based platform.
+  - (🔗 [GitHub](https://github.com/MohammedTaheer))
+
+- **Military Brigade Management System (MBMS)** (Sep 2024 – Present)
+  - Built a desktop application using C# and SQL Server following the MVP architecture pattern.
+  - Designed modules for personnel records, weapons/ammunition inventory, licensing, salaries, and operational budgeting.
+  - (🔗 [GitHub](https://github.com/MohammedTaheer))
+
+- **Supply Brigade Management System (SBMS)**
+  - Developed a system to manage food, housing, and supply distribution across brigade units.
+  - Created reporting tools to improve tracking and operational efficiency.
+  - (🔗 [GitHub](https://github.com/MohammedTaheer))
+
+- **Driving & Vehicle License Department (DVLD)** (Nov 2025 – Jan 2026)
+  - Designed a desktop application for managing driving licenses and vehicle registrations.
+  - Implemented features for local/international license applications, renewals, testing workflows, and license suspension/reinstatement.
+  - (🔗 [GitHub](https://github.com/MohammedTaheer))
 
 ### 📚 Learning Goals
 
@@ -78,7 +112,7 @@ I'm always learning something new! Right now, I'm focused on:
 
 🤝 Let's Collaborate
 
-I’m open to collaborating on:
+I'm open to collaborating on:
 
 - Open-source projects
 - C# / .NET projects
