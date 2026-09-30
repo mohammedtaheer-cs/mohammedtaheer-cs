@@ -94,16 +94,6 @@ If you have an interesting project or idea, feel free to connect with me.
 
 ---
 
-📫 Connect With Me
-
-<div align="center"><a href="https://www.linkedin.com/in/mohammedtaheer/">
-<img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Taheer-blue?style=for-the-badge&logo=linkedin" />
-</a><a href="mailto:mohammednabeel.cs@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a><a href="https://github.com/MohammedTaheer">
-<img src="https://img.shields.io/badge/GitHub-MohammedTaheer-black?style=for-the-badge&logo=github" />
-</a></div>---
-
 📊 GitHub Stats
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MohammedTaheer&show_icons=true&include_all_commits=true&count_private=true" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedTaheer&layout=compact&langs_count=8" height="180"/></div>---
