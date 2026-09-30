@@ -76,8 +76,83 @@ I'm always learning something new! Right now, I'm focused on:
 - 🌐 Expanding knowledge in frontend frameworks (React/Angular) to become a full-stack developer.
 - 🛠️ Improving cross-disciplinary capabilities: DevOps, System Design.
 
-### 🤝 Let’s Collaborate
+🤝 Let's Collaborate
 
-I’m open to contributions, partnerships, and discussions on web or software engineering projects, C#/.NET development, or anything innovative. Feel free to open an issue or submit a PR!
+I’m open to collaborating on:
+
+- Open-source projects
+- C# / .NET projects
+- Backend applications
+- REST APIs
+- ERP systems
+- Business applications
+- SQL Server projects
+- Software architecture
+- Interesting programming projects
+
+If you have an interesting project or idea, feel free to connect with me.
+
+---
+
+📫 Connect With Me
+
+<div align="center"><a href="https://www.linkedin.com/in/mohammedtaheer/">
+<img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Taheer-blue?style=for-the-badge&logo=linkedin" />
+</a><a href="mailto:mohammednabeel.cs@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a><a href="https://github.com/MohammedTaheer">
+<img src="https://img.shields.io/badge/GitHub-MohammedTaheer-black?style=for-the-badge&logo=github" />
+</a></div>---
+
+📊 GitHub Stats
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MohammedTaheer&show_icons=true&include_all_commits=true&count_private=true" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedTaheer&layout=compact&langs_count=8" height="180"/></div>---
+
+🔥 GitHub Streak
+
+<div align="center"><img src="https://streak-stats.demolab.com?user=MohammedTaheer" /></div>---
+
+📈 GitHub Activity
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedTaheer&hide_border=true" width="100%"/></div>---
+
+🚀 Code Cycle
+
+<div align="center">💡 Think
+   ↓
+📝 Design
+   ↓
+💻 Code
+   ↓
+🐛 Debug
+   ↓
+🧪 Test
+   ↓
+⚡ Optimize
+   ↓
+🚀 Deploy
+   ↓
+🔁 Improve
+
+</div>---
+
+🎯 My Current Goals
+
+☑ Improve C# & .NET expertise
+☑ Build scalable backend systems
+☑ Improve SQL Server & T-SQL skills
+☑ Build production-ready REST APIs
+☑ Master software architecture
+☑ Improve problem solving
+☑ Build professional ERP applications
+☑ Contribute to open-source projects
+
+---
+
+<div align="center">⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories, follow my work, or connect with me.
+
+Keep Coding. Keep Learning. Keep Building. 🚀
 
 </div>
