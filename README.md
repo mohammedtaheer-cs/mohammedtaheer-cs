@@ -1,37 +1,3 @@
-
-<div align="center">
-  <!-- شعار Hello Coders -->
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="40%" alt="Hello Coders"/><br>
-
-  <!-- حاوية (Container) للصورة المتحركة وصورة الحساب -->
-  <!-- position: relative تجعل الصورة المصغرة تتمركز بالنسبة للـ GIF وليس الصفحة -->
-  <div style="position: relative; display: inline-block; width: 50%;">
-    
-    <!-- صورة الخلفية المتحركة (GIF) -->
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="100%" alt="Developer Working"/>
-    
-    <!-- صورتك الشخصية (مصغرة) تظهر فوق الـ GIF -->
-    <!-- position: absolute تسمح لنا بتحديد مكانها بدقة -->
-    <!-- bottom و left يحددان بعدها عن الأسفل واليسار (يمكنك تغييرها إلى right إذا أردت) -->
-    <img src="https://github.com/mohammedtaheer-cs.png" alt="Mohammed Taheer" 
-         style="position: absolute; bottom: 10%; left: 5%; width: 20%; border-radius: 50%; border: 3px solid #ffffff; box-shadow: 0 4px 8px rgba(0,0,0,0.6);" />
-         
-  </div>
-
-  <!-- بقية معلومات الملف الشخصي -->
-  <h3>Mohammed Taheer</h3>
-  <b>Software Engineer | C# & .NET Specialist | Backend Developer | SQL Server & T-SQL</b>
-  
-  <p>
-    <a href="https://www.linkedin.com/in/mohammedtaheer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:alhomeedallows@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  </p>
-  
-  <p>📍 Al-Dhali, Yemen</p>
-  <p>⏰ 12:00 (UTC +03:00)</p>
-</div>
-
-
 <!-- Left Side (Profile Info) -->
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="40%" alt="Hello Coders"/><br>
@@ -39,7 +5,7 @@
   
 <div align="center">
   <img src="https://github.com/mohammedtaheer-cs.png" alt="Mohammed Taheer" width="150" style="border-radius: 50%;" />
-  <h3>Mohammed Taheer</h3>
+  <h3>Mohammed Nabeel Ali Taheer</h3>
   <b>Software Engineer | C# & .NET Specialist | Backend Developer | SQL Server & T-SQL</b>
   
   <p>
